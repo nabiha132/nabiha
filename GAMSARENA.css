@@ -1,0 +1,476 @@
+div{
+    float: left;
+}
+.c1{
+    height: 120px;
+background-color: rgba(27, 27, 27, 0.527);
+width: 100%;
+color: aliceblue;
+}
+.img1 ,.img3{
+    height:25px ;
+    width:25px;
+    margin-left:10px ;
+    margin-top: 45px;
+}
+.img1:hover{
+    background-color: rgb(156, 27, 4);
+}
+.img3:hover{
+    background-color: rgb(156, 27, 4);
+}
+.img2{
+    margin-top:30px ;
+   margin-left: 220px;
+}
+.img3{
+    margin-left: 30px;
+}
+.c2{
+    background-color: black;
+    height: 50px;
+    width: 300px;
+    margin-top:40px ;
+    margin-left: 90px;
+    text-align: center;
+    padding-top: 15px;
+}
+.c2:hover{
+    color: rgb(170, 34, 10);
+}
+.c3{
+    height: 40px;
+    width: 70px;
+  
+    margin-top:40px ;
+    margin-left: 90px;
+    text-align: center;
+    padding-top: 15px;
+    color: aliceblue;
+    font-size: 12px;
+}
+.c4{
+    height: 40px;
+    width: 70px;
+   
+    margin-top:40px ;
+    margin-left: 20px;
+    text-align: center;
+    padding-top: 15px;
+    color: aliceblue;
+    font-size: 12px;
+}
+.c5{
+    height: 40px;
+    width: 70px;
+  
+    margin-top:40px ;
+    margin-left: 20px;
+    text-align: center;
+    padding-top: 15px;
+    color: aliceblue;
+    font-size: 12px;
+}
+.c3:hover{
+    color: rgb(255, 0, 0);
+}
+.c4:hover{
+    color: rgb(255, 0, 0);
+}
+.c5:hover{
+    color: rgb(255, 0, 0);
+}
+.c6{
+    /* background-color: blue; */
+    height: 320px;
+    width: 100%;
+    margin-left: 30px;
+}
+.img4{
+    height: 320px;
+    width: 25%;
+    float: left;
+    padding: none;
+    background-image: url(img\ a.png);
+    background-size: cover;
+    display: flex;
+}
+.img4:hover{
+    color: aliceblue;
+}
+.img5{
+    height: 320px;
+    width: 25%;
+    float: left;
+    padding: none;
+    background-image: url(img\ b.png);
+    background-size: cover;
+}
+.img6{
+    height: 320px;
+    width: 25%;
+    float: left;
+    padding: none;
+    background-image: url(img\ c.png);
+    background-size: cover;
+}
+.img7{
+    height: 320px;
+    width: 25%;
+    float: left;
+    padding: none;
+    background-image: url(img\ d.png);
+    background-size: cover;
+}
+.c7{
+    height: 80px;
+    width: 100%;
+    /* background-color: blueviolet; */
+    margin-left: 30px;
+}
+.img4:hover{
+  color: aliceblue;
+}
+.d4{
+    height: 320px;
+    width: 100%;
+}
+.d4:hover{
+    background-color: rgba(240, 248, 255, 0.507);
+}
+.button{
+    background-color: rgb(245, 4, 4);
+    height: 30px;
+    width: 80px;
+    font-size: 13px;
+    color: aliceblue;
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-top: 160px;
+    margin-left: 35%;
+    padding-top: 5px;
+}
+.c8{
+    height: 30px;
+    width: 25%;
+    /* background-color: brown; */
+    margin-top: 20px;
+    text-align: center;
+    font-size: 11px;
+color: rgb(2, 2, 2);
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.c9{
+    height: 30px;
+    width: 233px;
+    /* border-right: 5px solid rgb(194, 130, 12); */
+    /* background-color: rgb(117, 69, 69); */
+   font-size: 13px;
+    text-align: center;
+    color: rgb(8, 8, 8);
+
+}
+.c8:hover{
+    color: rgb(168, 3, 3);
+}
+.img8{
+    height: 320px;
+    width: 25%;
+    float: left;
+    padding: none;
+    background-image: url(img\ e.png);
+    background-size: cover;
+    display: flex;
+}
+.img9{
+    height: 320px;
+    width: 25%;
+    float: left;
+    padding: none;
+    background-image: url(img\ f.png);
+    background-size: cover;
+    display: flex;
+}
+.img10{
+    height: 320px;
+    width: 25%;
+    float: left;
+    padding: none;
+    background-image: url(img\ i.png);
+    background-size: cover;
+    display: flex;
+}
+.img11{
+    height: 320px;
+    width: 25%;
+    float: left;
+    padding: none;
+    background-image: url(img\ j.png);
+    background-size: cover;
+    display: flex;
+}
+.img12{
+    height: 320px;
+    width: 25%;
+    float: left;
+    padding: none;
+    background-image: url(img\ k.png);
+    background-size: cover;
+    display: flex;
+}
+.img13{
+    height: 320px;
+    width: 25%;
+    float: left;
+    padding: none;
+    background-image: url(img\ l.png);
+    background-size: cover;
+    display: flex;
+}
+.img14{
+    height: 320px;
+    width: 25%;
+    float: left;
+    padding: none;
+    background-image: url(img\ m.png);
+    background-size: cover;
+    display: flex;
+}
+.img15{
+    height: 320px;
+    width: 25%;
+    float: left;
+    padding: none;
+    background-image: url(img\ n.png);
+    background-size: cover;
+    display: flex;
+}
+.img16{
+    height: 320px;
+    width: 25%;
+    float: left;
+    padding: none;
+    background-image: url(img\ o.png);
+    background-size: cover;
+    display: flex;
+}
+.img17{
+    height: 320px;
+    width: 25%;
+    float: left;
+    padding: none;
+    background-image: url(img\ p.png);
+    background-size: cover;
+    display: flex;
+}
+.img18{
+    height: 320px;
+    width: 25%;
+    float: left;
+    padding: none;
+    background-image: url(img\ s.png);
+    background-size: cover;
+    display: flex;
+}
+.img19{
+    height: 320px;
+    width: 25%;
+    float: left;
+    padding: none;
+    background-image: url(img\ t.png);
+    background-size: cover;
+    display: flex;
+}
+.img20{
+    height: 320px;
+    width: 25%;
+    float: left;
+    padding: none;
+    background-image: url(img\ u.png);
+    background-size: cover;
+    display: flex;
+}
+.img21{
+    height: 320px;
+    width: 25%;
+    float: left;
+    padding: none;
+    background-image: url(img\ v.png);
+    background-size: cover;
+    display: flex;
+}
+.c10{
+    height: 60px;
+    width: 100%;
+}
+.c11{
+    height: 400px;
+    width: 100%;
+    margin-left: 30px;
+    background-image: url(img1.png);
+    background-size: cover;
+}
+.c12{
+    height: 50px;
+    width: 200px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; 
+    color: rgb(155, 5, 5);
+    font-size: 25px;
+    /* background-color: aquamarine; */
+    margin-left: 30px;
+}
+.c13{
+    height: 40px;
+    width: 140px;
+    background-color: rgb(160, 5, 5);
+    float: right;
+    margin-right: -25px;
+   text-align: center;
+   color: aliceblue;
+   padding-top: 10px;
+}
+.c14{
+    height: 180px;
+    width: 290px;
+    background-image: url(robot.png);
+  background-size: cover;
+  margin-left: 22px;
+}
+.c15{
+    height: 180px;
+    width: 290px;
+    background-image: url(roboo.png);
+  background-size: cover;
+  margin-left: 22px;
+}
+.c16{
+    height: 180px;
+    width: 290px;
+    background-image: url(roboy.png);
+  background-size: cover;
+  margin-left: 22px;
+}
+.c18{
+    height: 180px;
+    width: 290px;
+}
+.c18:hover{
+    background-image: url(bg2.png);
+    background-size: cover;
+    opacity: 70%;
+}
+.c17{
+    height: 300px;
+    width: 100%;
+    text-align: center;
+   
+}
+.heading{
+    font-size: 30px;
+    color:red
+}
+.c25{
+    height: 300px;
+    width: 100%;
+    text-align: center; 
+    border-top: 3px solid red;
+}
+.text{
+color: red;
+font-size: 18px;
+margin-top: 40px;
+}
+.text1{
+    font-size: 12px;
+}
+.text2{
+    font-size: 10px;
+    margin-top: 40px;
+    color: black;
+}
+.c30{
+    height: 40px;
+    width: 250px;
+    background-color: red;
+    margin-left: 370px;
+}
+.im1{
+    height: 50px;
+    width: 50px;
+}
+.im1:hover{
+    color: red;
+}
+.a1{
+    height: 100px;
+    width: 100%;
+    text-align: center;
+    color: red;
+    font-size: 40px;
+}
+.b1{
+    height: 420px;
+    width: 100%;
+    text-align:center;
+}
+.b2{
+    color: red;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 30px;
+    margin-top: 100px;
+}
+.b3{
+    height: 40px;
+    width: 20%;
+    background-color: rgb(192, 7, 7);
+    margin-left: 40%;
+    color: aliceblue;
+   padding-top: 10px;
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.b4{
+    
+    color: red;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+    margin-top: 200px;
+}
+.b5{
+    height: 300px;
+    width: 23%;
+    float: left;
+    padding: none;
+    background-image: url(img\ a.png);
+    background-size: cover;
+    display: flex;
+}
+.b6{
+    height: 300px;
+    width: 23%;
+    float: left;
+    padding: none;
+    background-image: url(img\ b.png);
+    background-size: cover;
+    display: flex;
+    margin-left: 3%;
+}
+.b7{
+    height: 300px;
+    width: 23%;
+    float: left;
+    padding: none;
+    background-image: url(img\ c.png);
+    background-size: cover;
+    display: flex;
+    margin-left: 3%;
+}
+.b8{
+    height: 300px;
+    width: 23%;
+    float: left;
+    padding: none;
+    background-image: url(img\ d.png);
+    background-size: cover;
+    display: flex;
+    margin-left: 2%;
+}
